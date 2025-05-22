@@ -5,6 +5,9 @@
 
 *Here's a low resolution thumbs up for you!* 
 
+## 📝 Lab Documentation
+- Full lab procedure and notes: [Google Docs Lab Sheet](https://docs.google.com/document/d/16kdmpSDmAKn4SzJj0xJ8V4mJPTXH0w-0uJOStrR52oQ/edit?usp=sharing)
+
 ## 🛠 **Hardware Setup**  
 - **Components**:  
   - AMG8833 IR Sensor  
